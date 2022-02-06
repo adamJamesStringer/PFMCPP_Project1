@@ -15,7 +15,16 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
 
-    
+    pig
+    razor
+    fridge
+    traffic light
+    calculator
+    breadmaker
+    kettle
+    oven
+    aeroplane
+    bully
  
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
