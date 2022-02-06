@@ -14,6 +14,8 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
+
+    
  
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
@@ -52,84 +54,84 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: pig
+//  action 1:pig.oink();
 
-//  action 2:
+//  action 2:pig.squeel();
 
-//  action 3:
+//  action 3:pig.creatCommunistDictatorship();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:razor
+//  action 1:razor.rust();
 
-//  action 2:
+//  action 2:razor.shatter();
 
-//  action 3:
+//  action 3:razor.cut();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:fridge
+//  action 1:fridge.refridgerate();
 
-//  action 2:
+//  action 2:fridge.turnOnLightWhenOpened();
 
-//  action 3:
+//  action 3:fridge.overheat();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:trafficLight
+//  action 1:trafficLight.showGreen();
 
-//  action 2:
+//  action 2:trafficLight.showRed();
 
-//  action 3:
+//  action 3:trafficLight.showAmber();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:calculator
+//  action 1:calculator.carryTheOne();
 
-//  action 2:
+//  action 2:calculator.divideByZero();
 
-//  action 3:
+//  action 3:calculator.computePiToThirtyThousandPlaces();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:breakmaker
+//  action 1:breadmaker.stirMixture();
 
-//  action 2:
+//  action 2:breadmaker.heatUp();
 
-//  action 3:
+//  action 3:breadmaker.autoTurnOff();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:kettle
+//  action 1:kettle.boil();
 
-//  action 2:
+//  action 2:kettle.stopBoiling();
 
-//  action 3:
+//  action 3:kettle.displayLed();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:oven
+//  action 1:oven.heatUp();
 
-//  action 2:
+//  action 2:oven.turnOffIndicator();
 
-//  action 3:
+//  action 3:oven.soundTimerAlarm();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:aeroplane
+//  action 1:aeroplane.takeOff();
 
-//  action 2:
+//  action 2:aeroplane.land();
 
-//  action 3:
+//  action 3:aeroplane.transmitBlackBoxData();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun:bully
+//  action 1:bully.punchNerd();
 
-//  action 2:
+//  action 2:bully.seeCouncellor();
 
-//  action 3:
+//  action 3:bully.stopBullying();
 
 
 
