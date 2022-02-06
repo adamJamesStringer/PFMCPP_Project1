@@ -6,7 +6,7 @@
  
 Create a branch named Part1
 
-Purpose:  This project will get you thinking correctly about choosing good names for the tasks that your objects will perform. 
+Purpose:  This project will get you thinking correctly about choosing good names for the tasks that your objects will perform.
 This project will also introduce you to the review process, and how Pull Requests work.
 I will request a change be made to one of your 10 nouns for the sole purpose of showing how the review process works.
 
