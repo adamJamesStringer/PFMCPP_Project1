@@ -72,7 +72,7 @@ pig.squeel();
 pig.creatCommunistDictatorship();
 
 //  2)
-//  Noun:razor
+//  Noun: razor
 //  action 1: the razor shaves someones's armpits
 razor.shaveArmpits();
 //  action 2: the razor shaves someone's beard
@@ -81,7 +81,7 @@ razor.shaveBeard();
 razor.shaveLegs();
 
 //  3)
-//  Noun:fridge
+//  Noun: fridge
 //  action 1:the fridge refridgerates
 fridge.refridgerate();
 //  action 2:the fridge light turns on when opened
@@ -90,7 +90,7 @@ fridge.turnOnLight();
 fridge.overheatWarning();
 
 //  4)
-//  Noun:trafficLight
+//  Noun: trafficLight
 //  action 1: traffic light displays green 
 trafficLight.displayGreen();
 //  action 2: traffic light displays red
@@ -99,7 +99,7 @@ trafficLight.displayRed();
 trafficLight.showAmber();
 
 //  5)
-//  Noun:calculator
+//  Noun: calculator
 //  action 1: calculator adds
 calculator.add();
 //  action 2:calculator subtracts
@@ -108,7 +108,7 @@ calculator.subtract();
 calculator.multiply();
 
 //  6)
-//  Noun:breakmaker
+//  Noun: breakmaker
 //  action 1: breakmaker stirs mixture
 breadmaker.stirMixture();
 //  action 2: breadmaker heats up
@@ -117,7 +117,7 @@ breadmaker.heatUp();
 breadmaker.autoTurnOff();
 
 //  7)
-//  Noun:kettle
+//  Noun: kettle
 //  action 1: kettle starts boils
 kettle.startBoiling();
 //  action 2: kettle stops boiling 
@@ -126,16 +126,16 @@ kettle.stopBoiling();
 kettle.displayLed();
 
 //  8)
-//  Noun:oven
-//  action 1: oven heats up
-oven.heatUp();
-//  action 2: oven light turns off
-oven.turnOffIndicator();
-//  action 3: oven alarm sounds when time is up
-oven.soundTimerAlarm();
+//  Noun: toothPick
+//  action 1: toothpick picks teeth
+toothPick.pickTeeth();
+//  action 2: toothpick picks nails
+toothPick.pickNails();
+//  action 3: toothpick scratches back
+toothPick.scratchBack();
 
 //  9)
-//  Noun:aeroplane
+//  Noun: aeroplane
 //  action 1: aeroplane turns engines on 
 aeroplane.enginesOn();
 //  action 2: aeroplane takes breaks off
@@ -144,7 +144,7 @@ aeroplane.breaksOff();
 aeroplane.transmitData();
 
 //  10)
-//  Noun:bully
+//  Noun: bully
 //  action 1: bully hits people
 bully.punch();
 //  action 2: bully makes fun of people
